@@ -1,6 +1,5 @@
 {
   "host": "https://myvideo1.herokuapp.com/",
-  "port": 3030,
   "public": "../public/",
   "auth": {
     "idField": "id",
